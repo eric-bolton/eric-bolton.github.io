@@ -1,1 +1,1 @@
-# ericdidierbolton.com
+# eric-bolton.github.io
